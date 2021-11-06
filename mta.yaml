@@ -26,7 +26,7 @@ modules:
     path: app
     requires:
       - name: MyHANAApp_html_repo_runtime
-      - name: uaa_MyHANAApp
+      - name: MyHANAApp-uaa
       - name: srv-api
         group: destinations
         properties:
@@ -56,7 +56,7 @@ resources:
     parameters:
       service: html5-apps-repo
       service-plan: app-runtime
-  - name: uaa_MyHANAApp
+  - name: MyHANAApp-uaa
     type: org.cloudfoundry.managed-service
     parameters:
       path: ./xs-security.json
