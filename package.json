@@ -50,5 +50,8 @@
         "hana": {
             "deploy-format": "hdbtable"
         }
+    },
+    "devDependencies": {
+        "@sap/ux-specification": "^1.90.13"
     }
 }
