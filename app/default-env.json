@@ -1,0 +1,37 @@
+{
+    "destinations": [
+        {
+            "name": "srv-api",
+            "url": "http://localhost:4004",
+            "forwardAuthToken": true
+        }
+    ],
+    "VCAP_SERVICES": {
+        "xsuaa": [
+            {
+                "name": "MyHANAApp-xsuaa-service",
+                "label": "xsuaa",
+                "tags": [
+                    "xsuaa"
+                ],
+                "credentials": {
+                    "apiurl": "https://api.authentication.us10.hana.ondemand.com",
+                    "clientid": "sb-myhanaapp!t44488",
+                    "clientsecret": "xB/H62LHaG5qsGzDyBdaZcGj2w4=",
+                    "credential-type": "instance-secret",
+                    "identityzone": "jhodel",
+                    "identityzoneid": "aee2f974-8c17-4261-8030-2ae4a7ad41a9",
+                    "sburl": "https://internal-xsuaa.authentication.us10.hana.ondemand.com",
+                    "subaccountid": "aee2f974-8c17-4261-8030-2ae4a7ad41a9",
+                    "tenantid": "aee2f974-8c17-4261-8030-2ae4a7ad41a9",
+                    "tenantmode": "dedicated",
+                    "uaadomain": "authentication.us10.hana.ondemand.com",
+                    "url": "https://jhodel.authentication.us10.hana.ondemand.com",
+                    "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvvFims9IJK+O9ERRH0aLQSWRX5qbAOx/P9BKo2yXT0TUboLeUEhmkjrorLmTNmJUOK6vu7RpkNCBBkoChuzg9kwOktEgOW2QOMNW8zgmrKjlz9IiuPmagDyM3meFU/RxApxwTo4IVlhSjYMLKb+PAdHXuLBFWweVHApQHXwWy14kWntaSQn5P/+Xl0OgVx3KjWvwFhj0gjpuM/XPQrgQgcll4889pgSoV7iO911he23H7dTBX96YuLtG7fJOOvCMwrjx+h2yojq2Omz18TWF2x848peoBwgf2EFyhlAhEianD1eAVopa/JLyCs2BhmVI/4/O/gu2Th/gZxaYl08NqQIDAQAB-----END PUBLIC KEY-----",
+                    "xsappname": "myhanaapp!t44488",
+                    "zoneid": "aee2f974-8c17-4261-8030-2ae4a7ad41a9"
+                }
+            }
+        ]
+    }
+}
