@@ -14,3 +14,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Create a CAP-Based Application](https://developers.sap.com/tutorials/btp-app-create-cap-application.html)
 - [Create an SAP Fiori Elements-Based UI](https://developers.sap.com/tutorials/btp-app-create-ui-fiori-elements.html)
 - [Add Business Logic to Your Application](https://developers.sap.com/tutorials/btp-app-cap-business-logic.html)
+- [Create a UI Using Freestyle SAPUI5](https://developers.sap.com/tutorials/btp-app-create-ui-freestyle-sapui5.html)
