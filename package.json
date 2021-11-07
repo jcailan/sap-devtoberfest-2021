@@ -17,6 +17,7 @@
     "start": "cds run"
   },
   "sapux": [
-    "app/risks"
+    "app/risks",
+    "app/mitigations"
   ]
 }
