@@ -10,9 +10,13 @@
     "express": "^4"
   },
   "devDependencies": {
+    "@sap/ux-specification": "^1.90.13",
     "sqlite3": "^5"
   },
   "scripts": {
     "start": "cds run"
-  }
+  },
+  "sapux": [
+    "app/risks"
+  ]
 }
