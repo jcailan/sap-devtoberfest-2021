@@ -18,3 +18,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html)
 - [Implement Roles and Authorization Checks In CAP](https://developers.sap.com/tutorials/btp-app-cap-roles.html)
 - [Prepare for SAP BTP Development](https://developers.sap.com/tutorials/btp-app-prepare-btp.html)
+- [Set Up the SAP HANA Cloud Service](https://developers.sap.com/tutorials/btp-app-hana-cloud-setup.html)
