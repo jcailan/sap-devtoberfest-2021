@@ -16,6 +16,9 @@
 		"@sap/ux-specification": "^1.90.13",
 		"sqlite3": "^5"
 	},
+	"engines": {
+		"node": ">=14"
+	},
 	"scripts": {
 		"start": "cds run"
 	},
