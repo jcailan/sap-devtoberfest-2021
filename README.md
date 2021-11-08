@@ -17,3 +17,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Create a UI Using Freestyle SAPUI5](https://developers.sap.com/tutorials/btp-app-create-ui-freestyle-sapui5.html)
 - [Add More Than One Application to the Launch Page](https://developers.sap.com/tutorials/btp-app-launchpage.html)
 - [Implement Roles and Authorization Checks In CAP](https://developers.sap.com/tutorials/btp-app-cap-roles.html)
+- [Prepare for SAP BTP Development](https://developers.sap.com/tutorials/btp-app-prepare-btp.html)
