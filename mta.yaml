@@ -64,11 +64,16 @@ resources:
     parameters:
       service: xsuaa
       service-plan: application
+      path: ./xs-security.json
       config:
-        xsappname: -${space} #  name + space dependency
+        xsappname: cpapp-${space} #  name + space dependency
         tenant-mode: dedicated
-        ##  path to xs-security.json to add roles and scopes
-        # path: ./xs-security.json
-        ## or inline definition
-        # scopes:
-        # - name: $XSAPPNAME...
+        role-collections:
+          - name: "RiskManager-${space}"
+            description: Manage Risks
+            role-template-references:
+              - $XSAPPNAME.RiskManager
+          - name: "RiskViewer-${space}"
+            description: View Risks
+            role-template-references:
+              - $XSAPPNAME.RiskViewer
