@@ -21,3 +21,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Set Up the SAP HANA Cloud Service](https://developers.sap.com/tutorials/btp-app-hana-cloud-setup.html)
 - [Prepare User Authentication and Authorization (XSUAA) Setup](https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html)
 - [Deploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-cap-mta-deployment.html)
+- [Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html)
