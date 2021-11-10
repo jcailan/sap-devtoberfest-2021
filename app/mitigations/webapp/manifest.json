@@ -139,5 +139,9 @@
 				}
 			}
 		}
+	},
+	"sap.cloud": {
+		"public": true,
+		"service": "cpapp.service"
 	}
 }
