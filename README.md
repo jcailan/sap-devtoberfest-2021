@@ -25,3 +25,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Assign a Role Collection to a User](https://developers.sap.com/tutorials/btp-app-role-assignment.html)
 - [Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html)
 - [Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html)
+- [Configure and Run a Predefined SAP Continuous Integration and Delivery (CI/CD) Pipeline](https://developers.sap.com/tutorials/btp-app-ci-cd-btp.html)
