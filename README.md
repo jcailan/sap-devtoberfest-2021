@@ -24,3 +24,4 @@ This repository hosts the solution for the SAP Devtoberfest 2021 - Week 2 Part 2
 - [Add the SAP Launchpad Service](https://developers.sap.com/tutorials/btp-app-launchpad-service.html)
 - [Assign a Role Collection to a User](https://developers.sap.com/tutorials/btp-app-role-assignment.html)
 - [Enable Logging Service for Your Application](https://developers.sap.com/tutorials/btp-app-logging.html)
+- [Undeploy Your Multi-Target Application (MTA)](https://developers.sap.com/tutorials/btp-app-undeploy-cap-application.html)
