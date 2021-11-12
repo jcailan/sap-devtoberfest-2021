@@ -1,0 +1,6 @@
+*.mtar
+node_modules/
+app/
+gen/
+resources/
+.DS_Store
